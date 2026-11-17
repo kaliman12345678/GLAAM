@@ -1,4 +1,4 @@
-# Glaam · Paz, Tranquilidad y Armonía Ambiental
+﻿# Glaam · Paz, Tranquilidad y Armonía Ambiental
 
 Sitio web oficial de **Glaam** (`www.glaam.online`), una iniciativa de bienestar, serenidad y desarrollo eco-amigable impulsada por la **CORPORACION RUTAN MEDELLIN**, constituida legalmente como **Entidad Sin Ánimo de Lucro (ESAL)**.
 
@@ -18,7 +18,7 @@ Sitio web oficial de **Glaam** (`www.glaam.online`), una iniciativa de bienestar
 * **Código Postal:** 050010
 * **Teléfono Comercial & WhatsApp:** +57 300 146 5965 (3001465965)
 * **Correo Institucional:** talentohumano@glaam.online
-* **Sitio Web Oficial:** https://glaam.online
+* **Sitio Web Oficial:** https://www.glaam.online
 
 ---
 
@@ -30,10 +30,11 @@ Sitio web oficial de **Glaam** (`www.glaam.online`), una iniciativa de bienestar
 * **`terminos-del-servicio.html`**: Condiciones generales de los programas y actividades sin ánimo de lucro de Glaam.
 * **`styles.css`**: Hoja de estilos responsiva con la paleta de colores azul (azul marino, serenidad y cielo) y diseño eco-amigable.
 * **`app.js`**: Menú responsive, acordeón dinámico de FAQ y retroalimentación del formulario de contacto.
-* **`CNAME`**: Vinculación al dominio `glaam.online`.
+* **`CNAME`**: Vinculación al dominio `www.glaam.online`.
 * **`robots.txt`**: Directivas de rastreo e indexación limpia.
 * **Recursos Visuales (4 imágenes generadas de paz y medio ambiente en azul):**
   * `glaam_paz_naturaleza_azul.jpg`
   * `glaam_bienestar_serenidad.jpg`
   * `glaam_sostenibilidad_armonia.jpg`
   * `glaam_comunidad_eco_tranquilidad.jpg`
+
