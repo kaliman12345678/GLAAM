@@ -14,7 +14,8 @@ Sitio web oficial de **Glaam** (`www.glaam.online`), una iniciativa de bienestar
 * **NIT:** 900323466-1
 * **Cámara de Comercio:** Cámara de Comercio de Medellín para Antioquia
 * **Inscripción No.:** 21-012121-21 (Activa / Renovación 2026)
-* **Sede Principal & Notificación:** Calle 67 52 20 PISO 2 TORRE A, Medellín, Antioquia, Colombia (C.P. 050010)
+* **Sede Principal & Notificación:** Calle 67 52 20 PISO 2 TORRE A, Medellín, Antioquia, Colombia
+* **Código Postal:** 050010
 * **Teléfono Comercial & WhatsApp:** +57 300 146 5965 (3001465965)
 * **Correo Institucional:** talentohumano@glaam.online
 * **Sitio Web Oficial:** https://glaam.online
